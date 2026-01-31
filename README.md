@@ -1,6 +1,6 @@
 Working on NN/LLM Interpretability in Japan. Refer to https://www.hakaze-c.com/.
 
-## List of Official Experiment Codes of Hakaze Cho's Works
+## List of Repositories
 
 **Mechanism of Task-oriented Information Removal in In-context Learning** [Paper](https://arxiv.org/abs/2509.21012) [Repository](https://github.com/hc495/Verb_subspace) [ICLR 2026]
 
