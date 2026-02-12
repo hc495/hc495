@@ -12,6 +12,8 @@ Working on NN/LLM Interpretability in Japan. Refer to https://www.hakaze-c.com/.
 
 **Mechanistic Fine-tuning for In-context Learning** [Paper](https://arxiv.org/abs/2505.14233) [Repository](https://github.com/hc495/ICL_head_tuning) [EMNLP 2025 BlackBox NLP workshop] 
 
+**Understanding Token Probability Encoding in Output Embeddings** [Paper](https://aclanthology.org/2025.coling-main.708/) [Repository](https://github.com/hc495/Understand_Output_Embedding) [COLING 2025] 
+
 **StaICC: Standardized Toolkit for In-context Classification** [Paper](https://arxiv.org/abs/2501.15708) [Repository](https://github.com/hc495/StaICC) [PyPl](https://pypi.org/project/StaICC/)
 
 **NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning** [Paper](https://arxiv.org/abs/2402.05515) [Repository](https://github.com/hc495/NoisyICL)
