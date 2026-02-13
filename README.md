@@ -1,6 +1,6 @@
 Working on NN/LLM Interpretability in Japan. Refer to https://www.hakaze-c.com/.
 
-## List of Repositories
+## List of Official Code Implementation of Original Papers
 
 1. [ICLR 2026] **Mechanism of Task-oriented Information Removal in In-context Learning**   
    [Paper](https://arxiv.org/abs/2509.21012) [Repository](https://github.com/hc495/Verb_subspace)
