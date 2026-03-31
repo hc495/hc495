@@ -1,4 +1,4 @@
-Working on NN/LLM Interpretability in Japan. Refer to https://www.hakaze-c.com/.
+Working on NN/LLM Interpretability in RIKEN. Refer to https://www.hakaze-c.com/.
 
 ## List of Official Code Implementation of Original Papers
 
